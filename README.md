@@ -2,7 +2,7 @@
 
 
 - :computer: Hoje trabalho como menor aprendiz com back-end Java
-- :mortar_board: Me aprofundando em Java e estudando JavaScript e React
+- :mortar_board: Me aprofundando em Java e estudando JavaScript e Angular
 - :blush: Pronomes: ele/dele 
 
 <div align="center">
