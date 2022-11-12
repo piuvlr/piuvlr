@@ -25,7 +25,7 @@
   <a href = "mailto:caiosimas.siloe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-simas-06a06520a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/piuvlr/piuvlr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Piposo745/Piposo745/blob/output/github-contribution-grid-snake.svg)
 
 </div>
                                                                                                                                            
