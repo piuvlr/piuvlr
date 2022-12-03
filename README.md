@@ -1,7 +1,7 @@
 ## Olá pessoal!!  <Eu sou o Caio👋>
 
 
-- :computer: Hoje trabalho como menor aprendiz full stack Java e angularCLI
+- :computer: Hoje trabalho como desenvolvedor full stack Java e angularCLI
 - :mortar_board: Me aprofundando em Java e estudando JavaScript e Angular
 - :blush: Pronomes: ele/dele 
 
