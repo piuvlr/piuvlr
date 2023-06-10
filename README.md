@@ -3,7 +3,6 @@
 
 - :computer: Hoje trabalho como desenvolvedor full stack Java e angularCLI
 - :mortar_board: Me aprofundando em Java e estudando JavaScript e Angular
-- :blush: Pronomes: ele/dele 
 
 <div align="center">
   <a href="https://github.com/piuvlr">
